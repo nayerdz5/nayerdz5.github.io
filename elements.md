@@ -1,7 +1,6 @@
 ---
 title: 🅼🅴🅽🆄
-feature_text: 
-  ## ℒℴ 𝓆𝓊ℯ 𝓉ℯ ℊ𝓊𝓈𝓉𝒶
+feature_text:  ℒℴ 𝓆𝓊ℯ 𝓉ℯ ℊ𝓊𝓈𝓉𝒶
   
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
