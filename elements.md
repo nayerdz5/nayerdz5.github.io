@@ -224,7 +224,10 @@ letras
 
 ### Demo map embed
 
-{https://www.google.com/maps/place/Pizzas+Capuccino/@19.4207614,-99.0915258,17z/data=!4m17!1m10!3m9!1s0x85d1fd46841d32cf:0x5aff3d2f42c24d6e!2sPizzas+Capuccino!8m2!3d19.4207614!4d-99.0893371!10e5!14m1!1BCgIgAQ!16s%2Fg%2F1pzq26xlx!3m5!1s0x85d1fd46841d32cf:0x5aff3d2f42c24d6e!8m2!3d19.4207614!4d-99.0893371!16s%2Fg%2F1pzq26xlx}
+{(https://goo.gl/maps/S8CXK2Tqw6EdXEAJA)}
+
+
+
 
 ``` html
 {% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
