@@ -224,7 +224,7 @@ letras
 
 ### Demo map embed
 
-{(https://goo.gl/maps/S8CXK2Tqw6EdXEAJA)}
+{%"https://www.google.com/maps/place/Pizzas+Capuccino/@19.4208499,-99.0904368,18z/data=!4m6!3m5!1s0x85d1fd46841d32cf:0x5aff3d2f42c24d6e!8m2!3d19.4207614!4d-99.0893371!16s%2Fg%2F1pzq26xlx" %} 
 
 
 
