@@ -3,7 +3,7 @@ title: 🅿🅸🆉🆉🅰🆂   🅲🅰🅿🆄🅲🅲🅸🅽🅾
 feature_text: |
   ## 
  
-feature_image: ![image]"(https://github.com/nayerdz5/nayerdz5.github.io/assets/125933918/b43eda77-ba28-4e4e-80d7-c140eb6deac1)"
+feature_image: ![image](https://github.com/nayerdz5/nayerdz5.github.io/assets/125933918/b43eda77-ba28-4e4e-80d7-c140eb6deac1)
 
 
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
