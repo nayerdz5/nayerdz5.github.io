@@ -7,9 +7,6 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-<small>A small element</small>
-
-[A link](https://david.darn.es "A link")
 
 Te interesa visitar nuestro gran restaurante, ¡¡costea tu comida en este momento!!.
 
