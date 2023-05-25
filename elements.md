@@ -14,7 +14,7 @@ Te interesa visitar nuestro gran restaurante, ¡¡costea tu comida en este momen
 
 ## 🅴🅽🆃🆁🅰🅳🅰🆂
 
-* PAPAS A LA FRANCESA
+* PAPAS A LA FRANCESA ## 300 gr .................................$50
 * PAPAS GAJO
 * PAPAS GRATINADAS CON TOCINO
 * BOLITAS DE QUESO
