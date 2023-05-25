@@ -1,6 +1,7 @@
 ---
 title: 🅼🅴🅽🆄
-feature_text:  ℒℴ 𝓆𝓊ℯ 𝓉ℯ ℊ𝓊𝓈𝓉𝒶
+feature_text:  
+ℒℴ 𝓆𝓊ℯ 𝓉ℯ ℊ𝓊𝓈𝓉𝒶
   
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
@@ -11,14 +12,13 @@ aside: true
 Te interesa visitar nuestro gran restaurante, ¡¡costea tu comida en este momento!!.
 
 
-
 ## 🅴🅽🆃🆁🅰🅳🅰🆂
 
-* PAPAS A LA FRANCESA 300 gr .................................$50
-* PAPAS GAJO 300 gr ..........................................$50
-* PAPAS GRATINADAS CON TOCINO 400 gr .........................$69
-* BOLITAS DE QUESO 300 gr ....................................$69
-* BOLITAS DE PAPA CON JALAPEÑO $69
+* PAPAS A LA FRANCESA
+* PAPAS GAJO
+* PAPAS GRATINADAS CON TOCINO
+* BOLITAS DE QUESO
+* BOLITAS DE PAPA CON JALAPEÑO
 
 
 ## 🆂🅽🅰🅲🅺🆂
@@ -174,69 +174,4 @@ Te interesa visitar nuestro gran restaurante, ¡¡costea tu comida en este momen
 * PACÍFICO
 * TARRO MICHELADO
 * TARRO CON CLAMATO
-letras
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Demo map embed
-
-{%"https://www.google.com/maps/place/Pizzas+Capuccino/@19.4208499,-99.0904368,18z/data=!4m6!3m5!1s0x85d1fd46841d32cf:0x5aff3d2f42c24d6e!8m2!3d19.4207614!4d-99.0893371!16s%2Fg%2F1pzq26xlx" %}
-
-
-
-
-``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
-```
-
-
-
-
-
-
-
 
