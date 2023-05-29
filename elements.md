@@ -13,11 +13,11 @@ Te interesa visitar nuestro gran restaurante, ¡¡costea tu comida en este momen
 
 ## 🅴🅽🆃🆁🅰🅳🅰🆂
 
-* PAPAS A LA FRANCESA
-* PAPAS GAJO
-* PAPAS GRATINADAS CON TOCINO
-* BOLITAS DE QUESO
-* BOLITAS DE PAPA CON JALAPEÑO
+* PAPAS A LA FRANCESA .......................$50
+* PAPAS GAJO ................................$50
+* PAPAS GRATINADAS CON TOCINO ...............$69
+* BOLITAS DE QUESO ..........................$69
+* BOLITAS DE PAPA CON JALAPEÑO ..............$69
 
 
 ## 🆂🅽🅰🅲🅺🆂
