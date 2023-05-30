@@ -2,8 +2,9 @@
 title: 🅿🅸🆉🆉🅰🆂   🅲🅰🅿🆄🅲🅲🅸🅽🅾
 feature_text: |
   ## 
-  
-feature_image: "https://picsum.photos/1300/400?image=989"
+ 
+feature_image: "![SmartSelect_20230529_191515_Maps](https://github.com/nayerdz5/nayerdz5.github.io/assets/125933918/844f29c8-3592-4f38-ade5-1fb796b2b521)"
+
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
