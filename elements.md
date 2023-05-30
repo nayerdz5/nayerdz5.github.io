@@ -2,8 +2,7 @@
 title: 🅼🅴🅽🆄
 feature_text: |
   ℒℴ 𝓆𝓊ℯ 𝓉ℯ ℊ𝓊𝓈𝓉𝒶
-feature_image: "https://picsum.photos/2560/600?image=873 ![SmartSelect_20230529_191446_Maps](https://github.com/nayerdz5/nayerdz5.github.io/assets/125933918/be0eb1d5-0cc9-417d-9ff4-5d23402886e2)
- "
+feature_image: "https://picsum.photos/2560/600?image=873
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
