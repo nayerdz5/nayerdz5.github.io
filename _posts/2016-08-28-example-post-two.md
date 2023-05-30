@@ -1,5 +1,5 @@
 ---
-title: Horario
+title: 🅷🅾🆁🅰🆁🅸🅾 🅳🅴 🅰🅿🅴🆁🆃🆄🆁🅰
 categories:
 - Abierto
 - Cerrado
