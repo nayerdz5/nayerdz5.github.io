@@ -4,8 +4,14 @@ categories:
 - Actualizado
 
 excerpt: |
-  Contacto:
+  Contacto de Servicio a Domicilio:
      55 5762 7504
+     
+     
+    
+  También contamos con:
+     Uber Eats y DIDI Food
+     
  
      
  
